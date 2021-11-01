@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bhuvan999
-- 👀 I’m interested in Data structure and Algorithms
+- 👀 I’m interested in Data structures and Algorithms
 - 🌱 I’m currently learning DSA and System Design
 - 💞️ I’m looking to collaborate on Full stack applications
 - 📫 How to reach me bhuvankaruturi999@outlook.com
